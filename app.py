@@ -257,11 +257,9 @@ if task == 'OCR':
 
     st.markdown('#### SSD')
 
-    st.markdown('#### PRN')
-
-    st.markdown('#### RCN')
-
     st.markdown('#### Faster-RCNN')
+    
+    st.markdown('#### CPTN')
 
     st.write('Example of using Faster-RCNN for text detection.')
 
@@ -271,8 +269,6 @@ if task == 'OCR':
 
     st.markdown('#### CRNN')
     st.image('crnn.png', use_column_width=True, caption='from An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition')
-
-    st.markdown('#### CRTN')
 
 
 
