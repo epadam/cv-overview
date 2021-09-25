@@ -1,2 +1,2 @@
-# computer vision tasks demo with Streamlit
+# Computer Vision Tasks Demos with Streamlit
 
