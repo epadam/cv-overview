@@ -7,5 +7,6 @@ METRICS = REGISTRY.get_metrics()
 def i_sleep():
     sleep(1.0)
 
+st.write('GO')
 
 i_sleep()
