@@ -1,4 +1,15 @@
 import streamlit as st
+from utils import REGISTRY
+
+METRICS = REGISTRY.get_metrics()
+
+@METRICS.REQUEST_TIME.time()
+def i_sleep():
+    sleep(1.0)
+
+
+i_sleep()
+
 
 
 st.title('Computer Vision Overview')
@@ -263,7 +274,7 @@ if task == '3D Computer Vision':
     #st.markdown('#### COCO')
     st.subheader('Models for 3D Computer Vision')
 
-
+i_sleep()
 
 
 
