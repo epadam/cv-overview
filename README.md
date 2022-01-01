@@ -12,10 +12,16 @@
 
 ## Scene Detection
 
+## Action Recognition
+
 ## Face Recogtion/Detection
+
+## Action Recognition
 
 ## Applications
 
 ## Advertisement Analysis/Scoring
 
 ## OCR
+
+## Anomaly Detection
