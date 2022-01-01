@@ -4,6 +4,7 @@
 
 ## Object Detection
 
+## Segmentation
 
 ## Depth Estimation
 
@@ -12,3 +13,9 @@
 ## Scene Detection
 
 ## Face Recogtion/Detection
+
+## Applications
+
+## Advertisement Analysis/Scoring
+
+## OCR
