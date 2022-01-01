@@ -2,6 +2,8 @@
 
 ## Image Classification
 
+### Fine-Grained Image Classification
+
 ## Object Detection
 
 ## Segmentation
@@ -18,10 +20,23 @@
 
 ## Action Recognition
 
+## Anomaly Detection
+
+## 3D-Reconstruction 
+
+## Novelty Discovery
+
+## Emotion Detection
+
+## Object Tracking
+
 ## Applications
 
-## Advertisement Analysis/Scoring
+### Advertisement Analysis/Scoring
 
-## OCR
+### OCR
 
-## Anomaly Detection
+### Image Retrieval
+
+
+
