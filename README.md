@@ -40,5 +40,7 @@
 
 ### Hand Gesture Recognition
 
+### Sign Language Detection
+
 
 
