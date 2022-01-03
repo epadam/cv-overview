@@ -42,5 +42,5 @@
 
 ### Sign Language Detection
 
-
+### Retail (Shell Stock Detection)
 
