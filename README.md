@@ -4,11 +4,13 @@
 
 ### Fine-Grained Image Classification
 
-Fashion Clothes, Recommendation Systems, Face Identification
+Fashion Industry, Recommendation Systems, Face Identification, Retail
 
 ## Object Detection
 
 ## Segmentation
+
+Nuclie Segmentation
 
 ## Depth Estimation
 
@@ -31,6 +33,10 @@ Fashion Clothes, Recommendation Systems, Face Identification
 ## Emotion Detection
 
 ## Object Tracking
+
+## GAN
+
+### high resolution 
 
 ## Applications
 
