@@ -4,6 +4,8 @@
 
 ### Fine-Grained Image Classification
 
+Fashion Clothes, Recommendation Systems, Face Identification
+
 ## Object Detection
 
 ## Segmentation
