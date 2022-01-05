@@ -34,6 +34,8 @@ Nuclie Segmentation
 
 ## Object Tracking
 
+## Denoising
+
 ## GAN
 
 ### high resolution 
