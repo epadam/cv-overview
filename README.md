@@ -40,6 +40,8 @@ Nuclie Segmentation
 
 ## GAN
 
+art transfer
+
 ### high resolution 
 
 ## Applications
@@ -56,7 +58,10 @@ Nuclie Segmentation
 
 ### Retail (Shell Stock Detection)
 
-## Computer Vision 
+### Video Classification
+
+
+## Computer Vision Tools
 
 1. Mediapipe
 2. Intel Video Analysis Serving 
