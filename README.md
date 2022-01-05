@@ -8,6 +8,8 @@ Fashion Industry, Recommendation Systems, Face Identification, Retail
 
 ## Object Detection
 
+Pedestration counting, traffice counting, 
+
 ## Segmentation
 
 Nuclie Segmentation
@@ -53,4 +55,12 @@ Nuclie Segmentation
 ### Sign Language Detection
 
 ### Retail (Shell Stock Detection)
+
+## Computer Vision 
+
+1. Mediapipe
+2. Intel Video Analysis Serving 
+3. DeepStream
+4. Eyes of saroun
+5. DeepCamera
 
