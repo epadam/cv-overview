@@ -60,6 +60,7 @@ art transfer
 
 ### Video Classification
 
+### Semantic SLAM
 
 ## Computer Vision Tools
 
