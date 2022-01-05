@@ -12,7 +12,7 @@ Pedestration counting, traffice counting,
 
 ## Segmentation
 
-Nuclie Segmentation
+Nuclie Segmentation, Defect Detection
 
 ## Depth Estimation
 
