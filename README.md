@@ -4,11 +4,11 @@
 
 ### Fine-Grained Image Classification
 
-Fashion Industry, Recommendation Systems, Face Identification, Retail
+Fashion Industry, Recommendation Systems, Face Identification, Retail, Advertisement Analysis/Scoring
 
 ## Object Detection
 
-Pedestration counting, traffice counting, 
+Pedestration counting, traffice counting, Store Shell Stock Detection
 
 ## Segmentation
 
@@ -40,27 +40,21 @@ Nuclie Segmentation, Defect Detection
 
 ## GAN
 
-art transfer
+art style transfer
 
-### high resolution 
+## OCR
 
-## Applications
+## Image Retrieval
 
-### Advertisement Analysis/Scoring
+## Super Resolution
 
-### OCR
+## Hand Gesture Recognition
 
-### Image Retrieval
+## Sign Language Detection
 
-### Hand Gesture Recognition
+## Video Classification
 
-### Sign Language Detection
-
-### Retail (Shell Stock Detection)
-
-### Video Classification
-
-### Semantic SLAM
+## Semantic SLAM
 
 ## Computer Vision Tools
 
