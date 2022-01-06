@@ -214,6 +214,12 @@ generative-compression [`github`](https://github.com/Justin-Tan/generative-compr
 
 * flip [`github`](https://github.com/LinkedAi/flip)
 
+- Augmentor [`Github`](https://github.com/mdbloice/Augmentor?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+- albumentations [`Github`](https://github.com/albumentations-team/albumentations)
+
+- DALI [`Github`](https://github.com/NVIDIA/DALI)
+
 ## Awesome CV List
 
 * [Awesome-Computer-Vision](https://github.com/haofanwang/Awesome-Computer-Vision)
