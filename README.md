@@ -1,6 +1,8 @@
 # Computer Vision Tasks Demos with Streamlit
 
-## Image Classification
+## Image/Video Classification
+
+Scene Detection, Surveillance
 
 ### Fine-Grained Image Classification
 
@@ -8,33 +10,37 @@ Fashion Industry, Recommendation Systems, Face Identification, Retail, Advertise
 
 ## Object Detection
 
-Pedestration counting, traffice counting, Store Shell Stock Detection
+Pedestration counting, traffice counting, Store Shell Stock Detection, Anomaly Detection
+
+## 3D Object Detection
+
+## Object Tracking
+
+traffic monitoring,
 
 ## Segmentation
 
-Nuclie Segmentation, Defect Detection
+Nuclie Segmentation, Defect Detection, Anomaly Detection
 
 ## Depth Estimation
 
+3D-Reconstruction, AR, Self-Driving
+
 ## Pose Estimation
 
-## Scene Detection
+Sports, Sign Language Detection, Hand Gesture Recognition
 
 ## Action Recognition
+
+Surveillance,
 
 ## Face Recogtion/Detection
 
-## Action Recognition
-
-## Anomaly Detection
-
-## 3D-Reconstruction 
+## Emotion Detection 
 
 ## Novelty Discovery
 
-## Emotion Detection
 
-## Object Tracking
 
 ## Denoising
 
@@ -42,19 +48,15 @@ Nuclie Segmentation, Defect Detection
 
 art style transfer
 
-## OCR
+
 
 ## Image Retrieval
 
 ## Super Resolution
 
-## Hand Gesture Recognition
-
-## Sign Language Detection
-
-## Video Classification
-
 ## Semantic SLAM
+
+## OCR
 
 ## Computer Vision Tools
 
@@ -66,5 +68,5 @@ art style transfer
 
 ## Explainable Computer Vision
 
-1. Saliency M
+1. Saliency 
 
