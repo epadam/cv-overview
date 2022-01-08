@@ -11,7 +11,7 @@ if image_file is not None:
     img = Image.open(image_file)
     
     
-    st.image(img,height=250,width=250)
+    st.image(img)
     
     with open(image_file.name,"wb") as f: 
       f.write(image_file.getbuffer())         
