@@ -5,6 +5,7 @@ uploaded_file = st.file_uploader("Choose a file")
 
 image_file = st.file_uploader("Upload An Image",type=['png','jpeg','jpg'])
 
+
 if image_file is not None:
     file_details = {"FileName":image_file.name,"FileType":image_file.type}
     st.write(file_details)
@@ -15,9 +16,6 @@ if image_file is not None:
       f.write(image_file.getbuffer())         
     st.success("Saved File")
     
-    
-reader = easyocr.Reader(['ch_sim','en']) # this needs to run only once to load the model into memory
-
-result = reader.readtext(image_file.name)
-
-st.write(result)
+    reader = easyocr.Reader(['ch_sim','en']) # this needs to run only once to load the model into memory
+    result = reader.readtext(image_file.name)
+    st.write(result)
