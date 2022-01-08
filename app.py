@@ -12,6 +12,7 @@ if image_file is not None:
     
     
     st.image(img)
+    st.write(image_file.name)
     
     with open(image_file.name,"wb") as f: 
       f.write(image_file.getbuffer())         
