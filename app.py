@@ -1,7 +1,6 @@
 import streamlit as st
 import easyocr
-
-uploaded_file = st.file_uploader("Choose a file")
+from PIL import Image
 
 image_file = st.file_uploader("Upload An Image",type=['png','jpeg','jpg'])
 
@@ -9,7 +8,9 @@ image_file = st.file_uploader("Upload An Image",type=['png','jpeg','jpg'])
 if image_file is not None:
     file_details = {"FileName":image_file.name,"FileType":image_file.type}
     st.write(file_details)
-    img = load_image(image_file)
+    img = Image.open(image_file)
+    
+    
     st.image(img,height=250,width=250)
     
     with open(image_file.name,"wb") as f: 
