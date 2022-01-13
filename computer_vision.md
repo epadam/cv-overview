@@ -153,7 +153,7 @@ Check demos [here]()
 
 Please check [Document_AI.md](applications/Document_AI.md)
 
-## Image Retrieval
+## Image Similarity and Retrieval
 
 ##  Video Processing
 
