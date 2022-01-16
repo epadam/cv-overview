@@ -1,37 +1,41 @@
 # OCR and Information Extraction
 
-## Image Preprocessing
+## General
 
-### Dewarping
+No matter scene text or documents it needs text detection followed by text recognition 
 
-## Layout Analysis
-
-## Table Recognition
-
-## Text Detection
+### Text Detection
 
 * Faster-RCNN
 * CTPN
 
-
-## Text Recognition
+### Text Recognition
 
 * CRNN
   * CTC Loss 
 
-## Information Extraction
+## Information Extraction for Documents
 
-### Deep Learning
+### Image Preprocessing
+
+#### Dewarping
+
+### Layout Analysis
+
+### Table Recognition
+
+### Key-Value Extraction
+
+#### Template Based
+
+Define location
+
+
+#### Deep Learning Based
 * Transformer Based
     * LayoutLM []()
 * Graph Network
     * Spatial Dual-Modality Graph Reasoning for Key Information Extraction [`arXiv`](https://arxiv.org/abs/2103.14470)
-
-### Template Based
-
-Define location
-
-Use text recognition to find the 
 
 
 ## Open Source Resources
