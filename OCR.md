@@ -16,15 +16,24 @@ No matter scene text or documents it needs text detection followed by text recog
 
 ## Information Extraction for Documents
 
+Form, Reciept,etc
+Image preprocessing --> Document Classification --> Key-Value Extraction
+
+Book, Articles, Reports
+Image preprocessing --> Document Classification --> Layout Analysis --> Table, Text Extraction
+
+
 ### Image Preprocessing
 
 #### Dewarping
 
+Image Adjustion
+
 ### Document Classification
 
-### Layout Analysis
+### (Layout Analysis)
 
-### Table Recognition
+### (Table Recognition)
 
 ### Key-Value Extraction
 
