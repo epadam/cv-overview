@@ -20,6 +20,8 @@ No matter scene text or documents it needs text detection followed by text recog
 
 #### Dewarping
 
+### Document Classification
+
 ### Layout Analysis
 
 ### Table Recognition
