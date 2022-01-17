@@ -43,11 +43,14 @@ Define location
 
 
 #### Deep Learning Based
+
 * Transformer Based
-    * LayoutLM []()
+    * [LayoutLM]()
+    
 * Graph Network
     * Spatial Dual-Modality Graph Reasoning for Key Information Extraction [`arXiv`](https://arxiv.org/abs/2103.14470)
 
+* [Google Document](https://ai.googleblog.com/2020/06/extracting-structured-data-from.html)
 
 ## Open Source Resources
 
