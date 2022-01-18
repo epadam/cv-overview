@@ -1,6 +1,10 @@
 # Depth Estimation
 
-## Mono
+## Monocular
+
+https://github.com/isl-org/MiDaS
+
+
 
 ## Stereo
 
