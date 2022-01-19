@@ -33,6 +33,8 @@ Image Adjustion
 
 ### (Layout Analysis)
 
+* DeepDeSRT: Deep Learning for Detection and Structure Recognition of Tables in Document Images
+
 ### (Table Recognition)
 
 ### Key-Value Extraction
@@ -51,6 +53,10 @@ Define location
     * Spatial Dual-Modality Graph Reasoning for Key Information Extraction [`arXiv`](https://arxiv.org/abs/2103.14470)
 
 * [Google Document](https://ai.googleblog.com/2020/06/extracting-structured-data-from.html)
+
+* [CUTIE: Learning to Understand Documents with Convolutional Universal Text Information Extractor]()
+
+* Deep Reader: Information extraction from Document images via relation extraction and Natural Language
 
 ## Open Source Resources
 
