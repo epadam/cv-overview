@@ -58,6 +58,8 @@ Define location
 
 * Deep Reader: Information extraction from Document images via relation extraction and Natural Language
 
+* Key Information Extraction From Documents: Evaluation And Generator
+
 ## Open Source Resources
 
 
