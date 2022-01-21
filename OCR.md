@@ -27,6 +27,8 @@ Image preprocessing --> Document Classification --> Layout Analysis --> Table, T
 
 #### Dewarping
 
+Build own dataset for dewarping
+
 Image Adjustion
 
 ### Document Classification
