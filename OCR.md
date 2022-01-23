@@ -56,6 +56,10 @@ Define location
 
 * [Google Document](https://ai.googleblog.com/2020/06/extracting-structured-data-from.html)
 
+* [ReLIE: Representation-Learning-for-Information-Extraction]()
+
+* https://github.com/Praneet9/Representation-Learning-for-Information-Extraction
+
 * [CUTIE: Learning to Understand Documents with Convolutional Universal Text Information Extractor]()
 
 * Deep Reader: Information extraction from Document images via relation extraction and Natural Language
