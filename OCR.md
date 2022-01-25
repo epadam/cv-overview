@@ -27,7 +27,7 @@ Image preprocessing --> Document Classification --> Layout Analysis --> Table, T
 
 #### Dewarping
 
-Build own dataset for dewarping
+Generate dataset for dewarping 
 
 Image Adjustion
 
@@ -66,7 +66,13 @@ Define location
 
 * Key Information Extraction From Documents: Evaluation And Generator
 
+
+## Data Augmentation for OCR
+
+## Active Learning for OCR
+
 ## Open Source Resources
+
 
 
 ## Tools
