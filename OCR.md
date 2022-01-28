@@ -86,7 +86,6 @@ Define location
 * Timeseries anomaly detection using an Autoencoder [`link`](https://keras.io/examples/timeseries/timeseries_anomaly_detection/)
 
 
-# OCR With Kubeflow, mlrun
 
 The process of OCR includes 4 steps.
 1. Document Preprocessing
@@ -98,10 +97,11 @@ The process of OCR includes 4 steps.
 
 Data Annotation --Trigger retraining pipeline--> Retraining models --> CD to deploy the model
 
-## Annotation Images
+## Image Annotation 
 
+## MLOps for OCR
 
-## Retraining Kubeflow Pipeline (CI/CD/CT)
+### Retraining Kubeflow Pipeline (CI/CD/CT)
 
 
 
