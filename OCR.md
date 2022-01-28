@@ -14,6 +14,8 @@ No matter scene text or documents it needs text detection followed by text recog
 * CRNN
   * CTC Loss 
 
+#### Hand Written Recognition
+
 ## Information Extraction for Documents
 
 Form, Reciept,etc
@@ -43,7 +45,7 @@ Image preprocessing --> Document Classification --> Layout Analysis --> Table, T
 
 #### Template Based
 
-Define location
+Pre_define location
 
 
 #### Deep Learning Based
@@ -87,11 +89,6 @@ Define location
 
 
 
-The process of OCR includes 4 steps.
-1. Document Preprocessing
-2. Text Detection
-3. Text Recognition
-4. Key-Value Pair Extraction
 
 ## Process Flow
 
