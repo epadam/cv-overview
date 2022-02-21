@@ -94,7 +94,7 @@ Pre_define location
 
 Data Annotation --Trigger retraining pipeline--> Retraining models --> CD to deploy the model
 
-## Image Annotation 
+## Annotation for OCR
 
 ## MLOps for OCR
 
