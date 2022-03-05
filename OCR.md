@@ -41,6 +41,7 @@ Image preprocessing --> Document Classification --> Layout Analysis --> Table, T
 
 ### Table Recognition
 
+* https://arxiv.org/ftp/arxiv/papers/2010/2010.08591.pdf
 
 
 ### Key-Value Extraction
