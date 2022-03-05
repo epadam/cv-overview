@@ -35,11 +35,13 @@ Image preprocessing --> Document Classification --> Layout Analysis --> Table, T
 
 ### Document Classification
 
-### (Layout Analysis)
+### Layout Analysis
 
 * DeepDeSRT: Deep Learning for Detection and Structure Recognition of Tables in Document Images
 
-### (Table Recognition)
+### Table Recognition
+
+
 
 ### Key-Value Extraction
 
@@ -108,3 +110,7 @@ Data Annotation --Trigger retraining pipeline--> Retraining models --> CD to dep
 - ReLIE: Representation-Learning-for-Information-Extraction
 
 ## Public Dataset
+
+## Open Source
+
+### https://github.com/miaomiaosoft/PandaOCR
