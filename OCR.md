@@ -1,5 +1,7 @@
 # OCR and Information Extraction
 
+A demo streamlit app comparing between different Algorithm/models
+
 ## General
 
 No matter scene text or documents it needs text detection followed by text recognition 
