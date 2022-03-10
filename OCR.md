@@ -2,7 +2,7 @@
 
 A demo streamlit app comparing between different Algorithm/models
 
-## General
+## Scene based
 
 No matter scene text or documents it needs text detection followed by text recognition 
 
@@ -16,7 +16,6 @@ No matter scene text or documents it needs text detection followed by text recog
 * CRNN
   * CTC Loss 
 
-#### Hand Written Recognition
 
 ## Information Extraction for Documents
 
@@ -27,7 +26,6 @@ Image preprocessing --> Document Classification --> Key-Value Extraction
 Book, Articles, Reports
 
 Image preprocessing --> Document Classification --> Layout Analysis --> Table, Text Extraction
-
 
 ### Image Preprocessing
 
@@ -44,6 +42,9 @@ Image preprocessing --> Document Classification --> Layout Analysis --> Table, T
 ### Table Recognition
 
 * https://arxiv.org/ftp/arxiv/papers/2010/2010.08591.pdf
+
+
+### Hand Written Recognition
 
 
 ### Key-Value Extraction
@@ -117,3 +118,14 @@ Data Annotation --Trigger retraining pipeline--> Retraining models --> CD to dep
 ## Open Source
 
 ### https://github.com/miaomiaosoft/PandaOCR
+
+## Open Dataset and Benchmark for OCR
+
+## 'Document Analysis and Rcognition Conference and Competition
+
+* ICDAR 2019 SORIE
+   * Text Localization
+   * Scanned Receipt OCR
+   * Key Information Extraction
+* ICDAR 2019 cTDaR
+
