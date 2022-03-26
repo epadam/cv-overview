@@ -2,7 +2,7 @@
 
 ## Image/Video Classification
 
-Scene Detection, Surveillance
+Scene Detection, Surveillance, polygraph testing
 
 ### Fine-Grained Image Classification
 
@@ -10,21 +10,25 @@ Fashion Industry, Recommendation Systems, Face Identification, Retail, Advertise
 
 ## Object Detection
 
-Pedestration counting, traffice counting, Store Shell Stock Detection, Anomaly Detection
+Pedestration counting, traffic counting, Store Shell Stock Detection, Anomaly Detection, defect detection, self driving car, robot navigation
+aggriculture (tree, fruits counting, )
+
 
 ## 3D Object Detection
 
+self driving car, robot navigation, AR
+
 ## Object Tracking
 
-traffic monitoring,
+traffic monitoring, self driving car, 
 
 ## Segmentation
 
-Nuclie Segmentation, Defect Detection, Anomaly Detection
+Nuclie Segmentation, Defect Detection, Anomaly Detection, self driving car, building area, tree area counting
 
 ## Depth Estimation
 
-3D-Reconstruction, AR, Self-Driving
+3D-Reconstruction, AR, Self-Driving, robot navigation
 
 ## Pose Estimation
 
@@ -32,33 +36,39 @@ Sports, Sign Language Detection, Hand Gesture Recognition
 
 ## Action Recognition
 
-Surveillance,
+Surveillance, home care, health care
 
-## Face Recogtion/Detection
+## Face Recognition/Detection
+
+Surveillance,
 
 ## Emotion Detection 
 
+home care
+
 ## Novelty Discovery
 
+self driving car
 
+## Image Transfering
 
-## Denoising
+art style transfer (GAN), self driving
 
-## GAN
+### Denoising
 
-art style transfer
+### Super Resolution
 
+## Image Retrieval (Using image embedding)
 
+Recommendation
 
-## Image Retrieval
+## SLAM
 
-## Super Resolution
-
-## Semantic SLAM
+Semantic SLAM
 
 ## OCR
 
-## Computer Vision Tools
+## Useful Computer Vision Repo
 
 1. Mediapipe
 2. Intel Video Analysis Serving 
@@ -66,9 +76,7 @@ art style transfer
 4. Eyes of saroun
 5. DeepCamera
 
-## Explainable Computer Vision
 
-1. Saliency 
 
 ## List of All the Tools Here
 
