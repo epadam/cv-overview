@@ -40,6 +40,8 @@ Surveillance, home care, health care
 
 ## Face Recognition/Detection
 
+OpenFace[`notebook`]()
+
 Surveillance,
 
 ## Emotion Detection 
