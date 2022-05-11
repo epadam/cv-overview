@@ -1,5 +1,7 @@
 # Computer Vision Tasks Demos with Streamlit
 
+Deep learning models donimate many image recognition tasks when the data is independent and identically distributed (i.i.d.).
+
 [Streamlit Demo]()
 
 ## Image/Video Classification
