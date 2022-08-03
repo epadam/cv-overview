@@ -42,11 +42,13 @@ Sports, Sign Language Detection, Hand Gesture Recognition
 
 Surveillance, home care, health care
 
-## Face Recognition/Detection
+## Face Recognition
 
 OpenFace[`notebook`]()
 
-Surveillance,
+Facenet
+
+DeepFace
 
 ## Emotion Detection 
 
